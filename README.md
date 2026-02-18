@@ -15,9 +15,6 @@ This GitHub hosts both academic and personal projects — mostly focused on data
 - [Interactive Quiz System](https://github.com/Harry-Potter-Quiz-Project/harry-potter-quiz)  
   Full-stack web prototype that manages quiz logic, scoring, and state. Demonstrates client–server architecture, frontend–backend interaction, and modular feature implementation. *(Personal project)*
 
-- [Log Viewer App (WIP)](https://github.com/JolanDUBOIS/log-viewer)  
-  Lightweight app for viewing and filtering large log files (JSON/TXT), with a focus on performance and usability. Built with Svelte. *(Personal project)*
-
 - [News Recommendation System](https://github.com/JolanDUBOIS/grp-project-recommender-systems)  
   Multi-model recommender system built on the MIND dataset. Includes data normalization, evaluation pipeline, and baseline/hybrid models. *(University project)*
 
