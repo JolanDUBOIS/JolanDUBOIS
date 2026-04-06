@@ -5,7 +5,7 @@ I'm currently completing a double degree in Artificial Intelligence:
 - Master's in Informatics at **NTNU**
 - Engineering Master's at **CentraleSupélec**
 
-This GitHub hosts both academic and personal projects — mostly focused on data processing, machine learning, and recommender systems, but occasionally broader software topics.
+This GitHub hosts both academic and personal projects — mostly focused on data processing & engineering, machine learning, and occasionally broader software topics.
 
 ## 🛠️ Selected Projects
 
