@@ -9,13 +9,16 @@ This GitHub hosts both academic and personal projects — mostly focused on data
 
 ## 🛠️ Selected Projects
 
-- [Sports Calendar (WIP, stable main)](https://github.com/JolanDUBOIS/football-calendar)
+  - **[Sport Index](https://github.com/JolanDUBOIS/sport-index)**
+    A unified Python SDK providing a coherent, object-oriented API for exploring multi-domain sports data. Features a graph-like navigation model, lazy-loading for network efficiency, and a built-in VCR-style system for deterministic testing and mocking. *(Personal project, planning to release on PyPI soon)*
+
+- **[Sports Calendar (WIP, stable main)](https://github.com/JolanDUBOIS/football-calendar)**
   Command-line tool that automatically creates personalized sports event calendars based on user preferences and syncs with Google Calendar. Combines multiple data sources and web scraping to keep fans up-to-date with upcoming events. Currently features football and f1. *(Personal project)*
 
-- [Interactive Quiz System](https://github.com/Harry-Potter-Quiz-Project/harry-potter-quiz)  
+- **[Interactive Quiz System](https://github.com/Harry-Potter-Quiz-Project/harry-potter-quiz)** 
   Full-stack web prototype that manages quiz logic, scoring, and state. Demonstrates client–server architecture, frontend–backend interaction, and modular feature implementation. *(Personal project)*
 
-- [News Recommendation System](https://github.com/JolanDUBOIS/grp-project-recommender-systems)  
+- **[News Recommendation System](https://github.com/JolanDUBOIS/grp-project-recommender-systems)**  
   Multi-model recommender system built on the MIND dataset. Includes data normalization, evaluation pipeline, and baseline/hybrid models. *(University project)*
 
 - *(More coming soon...)*
